@@ -1,0 +1,17 @@
++ 1) Read 1st query from file 
++ 2) Read 2nd query from file 
+
++ 3) Create subfolder for output results 
++ 4) run 1st query and output results as cvs into output file
++ 5) run 2nd query and output results as cvs into output file
+
++ 6) save on-duty information into special file: 
++  - running time 
++  - fetch time 
++  - real execution plan
+
++ 7) Dealing with binding variables
++ 8) Use different number of queries
+9) Check differences in files: 
+  - size 
+  - run diff command
