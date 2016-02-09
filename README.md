@@ -6,3 +6,11 @@ The following features works:
  - output results into csv files 
  - output exeting and fetching time into file
  - output real executing plans into file
+
+
+Plans: 
+
+Diff output files
+
+requirements: 
+ - library oracle_cx
